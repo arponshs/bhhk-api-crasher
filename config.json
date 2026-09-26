@@ -1,8 +1,0 @@
-{
-  "tool_name": "BHHK API CRASHER",
-  "version": "1.0",
-  "default_threads": 10,
-  "default_timeout": 8,
-  "max_log_lines": 500,
-  "user_agent": "Mozilla/5.0 (Linux; Android) BHHK/1.0"
-}
